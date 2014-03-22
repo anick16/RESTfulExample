@@ -1,0 +1,32 @@
+<customers>
+	<customer>
+		<customerId>1</customerId>
+		<name>Animesh</name>
+		<phone>123456789</phone>
+		<mailId>animesh@abc.com</mailId>
+	</customer>
+		<customer>
+		<customerId>2</customerId>
+		<name>Aniket</name>
+		<phone>234567890</phone>
+		<mailId>aniket@abc.com</mailId>
+	</customer>
+	<customer>
+		<customerId>3</customerId>
+		<name>Vishal</name>
+		<phone>345678901</phone>
+		<mailId>vishal@abc.com</mailId>
+	</customer>
+	<customer>
+		<customerId>4</customerId>
+		<name>Vinodh</name>
+		<phone>456789012</phone>
+		<mailId>vinodh@abc.com</mailId>
+</customer>
+	<customer>
+		<customerId>5</customerId>
+		<name>Ram</name>
+		<phone>567890123</phone>
+		<mailId>ram@abc.com</mailId>
+	</customer>
+</customers>
